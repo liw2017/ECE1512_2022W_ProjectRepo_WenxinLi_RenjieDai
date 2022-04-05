@@ -1,2 +1,0 @@
-model_checkpoint_path: "Teacher_Weights"
-all_model_checkpoint_paths: "Teacher_Weights"

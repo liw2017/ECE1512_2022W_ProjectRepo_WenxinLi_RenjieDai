@@ -6,4 +6,4 @@ Task 1: KNOWLEDGE DISTILLATION IN MNIST DATASET
 
 TASK 2: KNOWLEDGE DISTILLATION IN MHIST DATASET
 
-We used RISE as our XAI Methods to explane all the model and we use TAKD as our state-of-the-arts KD algorithm.
+We used RISE as our XAI Methods to explane all the models and we use TAKD as our state-of-the-arts KD algorithm.

@@ -8,6 +8,6 @@ TASK 1: KNOWLEDGE DISTILLATION IN MNIST DATASET  => Project_B_Supp/Task1_final.i
 
 TASK 2: KNOWLEDGE DISTILLATION IN MHIST DATASET  => Project_B_Supp/Task2_final.ipynb
 
-(The model statement of task 1 is saved in Project_B_Supp/model_state_task2.)
+(The model statement of task 2 is saved in Project_B_Supp/model_state_task2.)
 
 We used RISE as our XAI Methods to explane all the models and we use TAKD as our state-of-the-arts KD algorithm.
